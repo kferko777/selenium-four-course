@@ -1,0 +1,8 @@
+ **/.DS_Store
+**.log
+.idea
+target
+*.iml
+*.zip
+globalvariables.properties
+.gitignore
